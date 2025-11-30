@@ -13,6 +13,10 @@ you intend to use Gemini CLI.
 - In a sandbox. This method offers increased security and isolation.
 - From the source. This is recommended for contributors to the project.
 
+For platform-specific installation guides:
+
+- [Install on Debian 12 (Bookworm)](./debian-12-installation.md)
+
 ### 1. Standard installation (recommended for standard users)
 
 This is the recommended way for end-users to install Gemini CLI. It involves
