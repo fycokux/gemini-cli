@@ -36,6 +36,10 @@
         "slug": "docs/get-started/installation"
       },
       {
+        "label": "Debian 12 Installation",
+        "slug": "docs/get-started/debian-12-installation"
+      },
+      {
         "label": "Examples",
         "slug": "docs/get-started/examples"
       }
